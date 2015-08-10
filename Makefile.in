@@ -31,7 +31,7 @@ MKDIR		= @MKDIR@
 
 ### Makefile rules - no user-servicable parts below
 
-SUBDIRS		= lib epkg mkencap doc
+SUBDIRS		= lib epkg mkencap
 
 all:
 	for n in ${SUBDIRS}; do \
