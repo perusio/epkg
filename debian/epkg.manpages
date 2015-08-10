@@ -1,0 +1,12 @@
+doc/encap_check_prereqs.3
+doc/encap_check_target.3
+doc/encap_find_versions.3
+doc/encapinfo_write.3
+doc/encap_install.3
+doc/encap_open.3
+doc/encap_pkgspec_parse.3
+doc/encap_platform_name.3
+doc/encap_profile.5
+doc/encap_vercmp.3
+doc/epkg.1
+doc/mkencap.1
